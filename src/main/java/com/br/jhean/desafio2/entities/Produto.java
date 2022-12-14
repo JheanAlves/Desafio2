@@ -1,8 +1,10 @@
-package com.br.farias.desafio2.entities;
+package com.br.jhean.desafio2.entities;
 
 import lombok.*;
 
+
 import javax.persistence.Entity;
+import javax.persistence.Id;
 
 @Data
 @AllArgsConstructor
@@ -11,4 +13,8 @@ import javax.persistence.Entity;
 @With
 @Entity
 public class Produto {
+
+@Id
+private long code ;
+
 }

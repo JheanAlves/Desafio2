@@ -1,4 +1,4 @@
-package com.br.farias.desafio2;
+package com.br.jhean.desafio2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
