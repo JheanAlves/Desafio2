@@ -8,11 +8,11 @@
 		<version>2.6.13</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.br.farias</groupId>
-	<artifactId>desafio2</artifactId>
+	<groupId>com.br.jhean</groupId>
+	<artifactId>produto-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>desafio2</name>
-	<description>desafio modulo 2</description>
+	<name>produto-api</name>
+	<description>desafio modulo 3</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
